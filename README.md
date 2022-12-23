@@ -35,7 +35,7 @@ All EnerQuery project files can be downloaded at https://github.com/lias-laborat
 
 ## Software licence agreement
 
-* [[Software license agreement]]: details the license agreement of EnerQuery
+* Details the license agreement of EnerQuery: [lgpl-3.0.txt](lgpl-3.0.txt)
 
 ## Historic Contributors
 
