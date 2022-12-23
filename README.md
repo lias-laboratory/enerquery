@@ -49,3 +49,6 @@ This work is carried out thanks to the support of the European Union through the
 ## Reconnaissance
 
 Ce travail est réalisé grâce au soutien de l'Union Européenne à travers le projet PLAIBDE du programme opérationnel FEDER-FSE pour la région Nouvelle-Aquitaine. Le projet est porté par l'entreprise aYaline, avec des partenaires: le laboratoire LIAS-ENSMA de Poitiers, et le laboratoire L3i de l'Université de La Rochelle.
+
+![](logo_na.jpg)
+![](ue_feder.jpg)
