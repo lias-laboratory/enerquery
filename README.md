@@ -33,7 +33,7 @@ All EnerQuery project files can be downloaded at https://github.com/lias-laborat
 * Amine Roukh, Ladjel Bellatreche, Ahcène Boukorca, Selma Bouarar: _Eco-DMW: Eco-Design Methodology for Data warehouses_. DOLAP 2015
 * Amine Roukh: _Estimating Power Consumption of Batch Query Workloads_. MEDI 2015
 
-## Software licence agreement
+## Software license agreement
 
 * Details the license agreement of EnerQuery: [LICENSE](LICENSE)
 
