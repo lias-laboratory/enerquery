@@ -40,6 +40,7 @@ All EnerQuery project files can be downloaded at https://github.com/lias-laborat
 ## Historic Contributors
 
 * Amine ROUKH (Université de Mostaganem)
+* Simon Pierre DEMBELE (Ambassade de France au Mali)
 * [Ladjel BELLATRECHE](https://www.lias-lab.fr/members/bellatreche/) (LIAS/ISAE-ENSMA)
 
 ## Acknowledgment
